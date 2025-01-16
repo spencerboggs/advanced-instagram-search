@@ -1,0 +1,1 @@
+These scripts require a certain amount of user input in order to work.
