@@ -21,4 +21,4 @@ def main(followers_file, following_file):
         for user in not_following_back:
             f.write(user + "\n")
 
-    print(f"\033[94mDone! Results saved to not_following_back.txt\033[0m")
+    # print(f"\033[94mDone! Results saved to not_following_back.txt\033[0m")
